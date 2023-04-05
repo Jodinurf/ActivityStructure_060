@@ -22,7 +22,7 @@ int main()
 
 		for (int i = 0; i < 3;i++) 
 		{
-			cout << "Maukkan NIM : ";
+			cout << "Masukkan NIM : ";
 			cin.getline(mhs[i].nim, 12);
 			cout << "Masukkan Umur : ";
 			cin >> mhs[i].umur;
