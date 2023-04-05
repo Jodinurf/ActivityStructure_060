@@ -20,7 +20,7 @@ int main()
 	Mahasiswa mhs;
 
 
-	cout << "Maukkan NIM : ";
+	cout << "Masukkan NIM : ";
 	cin.getline(mhs.nim, 12);
 	cout << "Masukkan Umur : ";
 	cin >> mhs.umur;
